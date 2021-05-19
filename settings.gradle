@@ -1,0 +1,9 @@
+rootProject.name = 'cat-and-fish'
+
+include 'cat-and-fish-adapter'
+include 'cat-and-fish-app'
+include 'cat-and-fish-client'
+include 'cat-and-fish-domain'
+include 'cat-and-fish-infrastructure'
+include 'cat-and-fish-shell'
+
